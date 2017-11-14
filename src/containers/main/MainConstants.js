@@ -1,0 +1,1 @@
+export const DEV_BASE_URL = 'http://api-dev.cocadre.com/v6/';
